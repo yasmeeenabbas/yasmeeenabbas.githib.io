@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+  
+execute: 
+  freeze: true
+
+website:
+  title: "Yasmeens Amazing Website"
+  description: Vibes
+  twitter-card: true
+  open-graph: true
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+    right:
+    - icon: linkedin
+      href: www.linkedin.com
+    - icon: instagram
+      href: https://www.instagram.com/_yasmeenabbas/
+    
+
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+

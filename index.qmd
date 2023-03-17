@@ -1,0 +1,7 @@
+---
+title: "Hi! Welcome to Yasmeens amazing website"
+---
+
+::: (.column-page)
+![](images/dubai.gif){width="8889"}
+:::

@@ -1,0 +1,15 @@
+---
+title: "About"
+about:
+  template: jolla
+  image: bunny.jpeg
+  image-shape: round
+  links: 
+    - icon: instagram
+      href: www.instagram.com/_yasmeenabbas/
+---
+
+I am 
+
+## Education
+University College London
